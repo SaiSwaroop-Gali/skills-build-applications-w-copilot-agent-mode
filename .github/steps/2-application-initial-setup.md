@@ -25,13 +25,13 @@ In this step, we will accomplish the following:
 >
 > ```prompt
 > Let's take the following step by step and generate instructions in this order and execute the commands.
-> Use docs/mona-high-school-fitness-tracker.md as a guide for the project structure and requirements.
->
-> 1. Understand the story of creating the fitness application from the docs/octofit_story.md file.
-> 2. Create the initial directory structure for the octofit-tracker application octofit-tracker/backend, octofit-tracker/frontend.
-> 3. Setup the backend python virtual environment, octofit-tracker/backend/requirements.txt based on docs/mona-high-school-fitness-tracker.md, and install required packages.
->
-> Don't proceed with the next activity until all of these steps are completed.
+> Use mona-high-school-fitness-tracker.md as a guide for the project structure and requirements.
+> 
+> Understand the story of creating the fitness application from the octofit_story.md file.
+> Create the initial directory structure for the OctoFit Tracker application: backend and frontend.
+> Set up the backend Python virtual environment in backend, create the requirements.txt file based on mona-high-school-fitness-tracker.md, and install all required packages.
+> 
+> Don't proceed with the next activity until all of these steps are completed..
 >```
 >
 
